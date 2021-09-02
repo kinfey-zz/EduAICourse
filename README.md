@@ -10,7 +10,7 @@
 
 ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/00-MLIntro.pdf">00-MLIntro.pdf</a>
 
-线上视频: <a href="https://www.bilibili.com/video/BV1JL411t79C?spm_id_from=333.999.0.0">点击观看</>
+线上视频: <a href="https://www.bilibili.com/video/BV1JL411t79C?spm_id_from=333.999.0.0">点击观看</a>
 
 ## **02. 线性回归1**
 
