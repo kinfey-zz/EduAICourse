@@ -10,7 +10,7 @@
 
 ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/00-MLIntro.pdf">00-MLIntro.pdf</a>
 
-## **02. 线性回归1 **
+## **02. 线性回归1**
 
 本次课程将会介绍单变量线性回归问题，并详细讲解梯度下降算法，神经网络法，以及梯度下降的三种形式。请对人工智能学习的小伙伴不容错过。
 
