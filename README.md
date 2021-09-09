@@ -29,6 +29,9 @@ ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/01-MLRegression1.p
 
 本次课程将会介绍单变量线性回归问题，并详细讲解梯度下降算法，神经网络法，以及梯度下降的三种形式。请对人工智能学习的小伙伴不容错过。
 
-课程内容地址: <a href="https://microsoft.github.io/ai-edu/%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/A2-%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/%E7%AC%AC2%E6%AD%A5%20-%20%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/04%20%E7%AC%AC%E4%BA%8C%E6%AD%A5%20-%20%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92.html">线性回归</a>
+课程内容地址: <a href="https://microsoft.github.io/ai-edu/%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/A2-%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/%E7%AC%AC2%E6%AD%A5%20-%20%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/05.0-%E5%A4%9A%E5%85%A5%E5%8D%95%E5%87%BA%E5%8D%95%E5%B1%82-%E5%A4%9A%E5%8F%98%E9%87%8F%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92.html">多变量线性回归</a>
+
+
+ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/02-MLRegression2.pdf">02-MLRegression2.pdf</a>
 
 代码：code/ch03/
