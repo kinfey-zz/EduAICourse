@@ -35,3 +35,15 @@ ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/01-MLRegression1.p
 ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/02-MLRegression2.pdf">02-MLRegression2.pdf</a>
 
 代码：code/ch03/
+
+
+## **03. 线性分类1**
+
+我们完成了单变量线性回归的学习，本周我们进入多变量线性回归的学习，并讲解正规方程解法，神经网络解法，还有样本数据归一法。希望小伙伴能结合上周的课程，真正掌握线性回归的知识学习。
+
+课程内容地址: <a href="https://microsoft.github.io/ai-edu/%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/A2-%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/%E7%AC%AC3%E6%AD%A5%20-%20%E7%BA%BF%E6%80%A7%E5%88%86%E7%B1%BB/06%20%E7%AC%AC%E4%B8%89%E6%AD%A5%20-%20%E7%BA%BF%E6%80%A7%E5%88%86%E7%B1%BB.html">线性二分类</a>
+
+
+ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/03-LinearBinaryClassification1.pdf">03-LinearBinaryClassification1.pdf</a>
+
+代码：code/ch04/
