@@ -39,7 +39,7 @@ ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/02-MLRegression2.p
 线上视频: <a href="https://www.bilibili.com/video/BV1EP4y1Y7iv?spm_id_from=333.999.0.0">点击观看</a>
 
 
-## **03. 线性二分类**
+## **04. 线性二分类**
 
 各位应该掌握了线性回归的知识。接下来我们会介绍线性分类的学习，小伙伴将会学习最基础的二分类知识。包括认识线性二分类，以及如果调用二分类函数。
 
@@ -54,7 +54,7 @@ ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/03-LinearBinaryCla
 线上视频: <a href="https://www.bilibili.com/video/BV1g3411m7wM?spm_id_from=333.999.0.0">点击观看</a>
 
 
-## **04. 线性多分类**
+## **05. 线性多分类**
 
 线性分类除了线性二分类，还有线性多分类的学习。通过线性多分类的学习，区分和二分类的不同，并介绍多分类函数。
 
