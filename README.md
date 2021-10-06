@@ -64,3 +64,20 @@ ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/03-LinearBinaryCla
 ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/04-LinearMultiClassification.pdf" target="_blank">04-LinearMultiClassification.pdf</a>
 
 代码：code/ch05/
+
+
+线上视频: <a href="https://www.bilibili.com/video/BV1UL411W7fV?spm_id_from=333.999.0.0" target="_blank">点击观看</a>
+
+
+## **06. 激活函数**
+
+在进入非线性系列，我们先介绍一下激活函数，它究竟有什么作用，要怎么实现激活函数，以及通过激活函数优化神经网络
+
+
+课程内容地址: <a href="https://microsoft.github.io/ai-edu/%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/A2-%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/%E7%AC%AC4%E6%AD%A5%20-%20%E9%9D%9E%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/08.0-%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.html" target="_blank">激活函数</a>
+
+
+ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/05-ActivationFunction.pdf" target="_blank">05-ActivationFunction.pdf</a>
+
+
+
